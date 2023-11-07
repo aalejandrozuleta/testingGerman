@@ -8,7 +8,7 @@ describe('función sum', () => {
 
 describe('funcion subtraction', () => {
     test('Subtraction', () => { 
-        expect(subtraction(1,2)).toBe(1);
+        expect(subtraction(2,1)).toBe(1);
      })
 });
 
