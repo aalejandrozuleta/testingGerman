@@ -22,6 +22,7 @@ function sumOdd(a) {
         sum += a[i];
       }
     }
+    return sum;
 }
 
 function greaterThanZero(a){
